@@ -1,0 +1,67 @@
+.body-color{
+    background-color: hsl(207, 33%, 95%);
+    width:1440px;
+}
+.features{
+ padding-left: 50px;
+}
+#flex{
+    display:"flex"; 
+    justify-content: end;
+}
+button{
+    color:white;
+    background-color:hsl(255deg 43% 28%);
+    
+    height:50px;
+    width:100px;
+    border-radius: 20px solid ;
+}
+
+.rhs-nav{
+    display: flex;
+    justify-content: flex-end;
+    font-family:"Barlow Condensed";
+}
+.purple{
+    color:white;
+    background-color:hsl(255deg 43% 28%);
+    font-family:"Barlow Condensed";
+    border-radius:25px;
+    font-size:25px;
+}
+.illustration{
+    height: 100px;
+    width: 100px;
+}
+.text-image{
+    display:flex;
+    justify-content: space-around;
+    
+}
+.big-font{
+    font-family:"Barlow";
+    font-size:50px;
+    color:hsl(255deg 43% 28%);
+}
+
+.sub-content{
+    font-family:"Barlow Condensed";
+    font-size:20px;
+}
+.letters{
+    height:700px;
+    width:500px;
+
+}
+#e-mail{
+    height:40px;
+    width:240px;
+    border-radius: 5px;
+}
+.bottom-content{
+    margin-bottom:75px;
+}
+.logo{
+    margin-bottom 25px;
+}
